@@ -1,2 +1,3 @@
 # make-it-teh
-Because I'm a focused typer and a chaotic speller, every 'the' becomes 'teh' — now it's just 'teh'. My colleagues laughed... so I made it a Chrome extension. You're welcome
+I type fast. Too fast. "the" turns into "teh", "teh" becomes legend, and now… "teh" is the new normal.
+This extension makes every website speak my language.
